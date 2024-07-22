@@ -1,0 +1,23 @@
+Caesar Cipher
+1. Encrypt
+2. Decrypt
+3. Exit
+Choose an option: 1
+Enter the text to encrypt: hello
+Enter the shift value: 3
+Encrypted text: khoor
+
+Caesar Cipher
+1. Encrypt
+2. Decrypt
+3. Exit
+Choose an option: 2
+Enter the text to decrypt: khoor
+Enter the shift value: 3
+Decrypted text: hello
+
+Caesar Cipher
+1. Encrypt
+2. Decrypt
+3. Exit
+Choose an option: 
